@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Geeky Hours BLog
+title: Geeky Hours Blog
 email: geekyhours@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Geek Hour is a teeny tiny company, which started as a social medium for sharing news and updates related to Microsoft technologies within the community. 
   Later it became an entity that started helping local businesses with technical insights, tools, and technologies. If you are a geek and wants to be a part of a geeky organization, why don't you give us a knock and we will try to get you on board.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: geekyhours
+facebook_username: geekyhours
 github_username: geekyhours
 
 # Build settings
